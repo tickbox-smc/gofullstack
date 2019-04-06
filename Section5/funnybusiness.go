@@ -3,5 +3,7 @@ package main
 import "fmt"
 
 func main() {
-  fmt.Println("Hello Gopher!")
+
+	fmt.Printf("String or number?: %s\n", 1)
+
 }
